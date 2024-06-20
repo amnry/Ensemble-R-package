@@ -1,0 +1,19 @@
+Package: simpleEnsembleGroup22
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Author: person("Sravya Yarlagadda", role = c("aut", "cre", "ctb"))
+            person("Hasan Md Moonam", role = c("aut", "cre", "ctb"))
+            person("Aman Arya", role = c("aut", "cre", "ctb"))
+            person("Eric Seeram", role = c("aut", "cre", "ctb"))
+Maintainer: Sravya Yarlagadda <sravya.yarlagadda@stonybrook.edu>, Hasan Md Moonam <hasanmd.moonam@stonybrook.edu>
+Description: What the package does (one paragraph).
+Depends: R (>= 3.6.0)
+Imports: glmnet(>= 4.1-8), randomForest
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+NeedsCompilation: no
+Packaged: 2024-05-03 16:45:24 UTC; sryarlagadda
