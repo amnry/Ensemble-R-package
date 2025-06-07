@@ -1,4 +1,4 @@
-# simpleEnsembleGroup22
+# simpleEnsemble
 
 > **An R Package for Robust Machine Learning Workflows with Regularized Regression, Bagging, and Ensemble Modeling**  
 > Developed as part of a graduate-level course project by Aman Arya and team @ Stony Brook University
